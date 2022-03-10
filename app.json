@@ -1,0 +1,8 @@
+{
+  "name": "NotifyMyNotes",
+  "displayName": "NotifyMyShit",
+  "expo": {
+    "scheme" : "NotifyMyNotes",
+    "name" : "NotifyMyShit"
+  }
+}
